@@ -10,21 +10,23 @@
 
 body {
   background-color: #e3f4fb;
+  position: relative;
+  height: 100vh;
 }
 
 h1 {
   text-align: center;
-  padding: 50px 0;
   position: relative;
+  top: 50px;
 }
-h1::after {
+h1::before {
   content: "";
   position: absolute;
-  bottom: 40px;
+  width: 90px;
+  height: 2px;
   left: 50%;
   transform: translateX(-50%);
-  width: 100px;
-  height: 2px;
+  bottom: -10px;
   background-color: red;
 }
 
@@ -36,7 +38,6 @@ button {
 .reviews {
   background-color: #fff;
   width: 33%;
-  min-height: 50%;
   position: absolute;
   top: 50%;
   left: 50%;

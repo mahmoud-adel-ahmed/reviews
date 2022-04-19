@@ -13,12 +13,12 @@ const reviews = [
   },
   {
     name: "michael raga",
-    img: "./images/pic-1.png",
+    img: "./images/pic-2.jpg",
     text: "Lorem ipsum dolor sit amet adipisicing elit. nostrum quaerat ullam ducimus eaque ab minus ipsa nam facere rerum sapiente culpa quis, cupiditate eos!",
   },
   {
     name: "tom macarchy",
-    img: "./images/simon.png",
+    img: "./images/pic-1.jpg",
     text: "Lorem, ipsum dolor sit amet elit. Accusamus nesciunt, nobis iusto rerum saepe fugiat voluptate quod quos tenetur impedit quisquam porro.",
   },
 ];
