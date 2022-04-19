@@ -9,7 +9,7 @@
 }
 
 body {
-  background-color: #e3f4fb;
+  background-color: #fcbcc1;
   position: relative;
   height: 100vh;
 }
@@ -38,18 +38,19 @@ button {
 .reviews {
   background-color: #fff;
   width: 33%;
+  margin-top: 10px;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
-  padding: 20px;
+  padding: 15px;
 }
 .reviews img {
   display: block;
   margin: 0 auto 20px;
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   -o-object-fit: cover;
      object-fit: cover;
   border-radius: 50%;

@@ -9,17 +9,17 @@ const reviews = [
   {
     name: "bill anderson",
     img: "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg",
-    text: "Edison bulb put a bird on it, marfa pok cray venmo actually seitan. VHS farm-to-table, edison bulb pop-up 3 wolf moon tote bag street art shabby chic. ",
+    text: "Edison bulb put a bird on it, marfa pok cray venmo actually seitan. VHS farm-to-table, edison bulb pop-up 3 wolf bag street art shabby chic.",
   },
   {
     name: "michael raga",
     img: "./images/pic-2.jpg",
-    text: "Lorem ipsum dolor sit amet adipisicing elit. nostrum quaerat ullam ducimus eaque ab minus ipsa nam facere rerum sapiente culpa quis, cupiditate eos!",
+    text: "Lorem ipsum dolor sit amet adipisicing elit. nostrum quaerat ullam ducimus eaque ab minus ipsa nam facere rerum sapiente culpa quis eos!",
   },
   {
     name: "tom macarchy",
     img: "./images/pic-1.jpg",
-    text: "Lorem, ipsum dolor sit amet elit. Accusamus nesciunt, nobis iusto rerum saepe fugiat voluptate quod quos tenetur impedit quisquam porro.",
+    text: "Lorem, ipsum dolor sit amet elit. Accusamus nesciunt, nobis iusto rerum saepe fugiat voluptate quod quos tenetur impedit porro.",
   },
 ];
 
